@@ -1,4 +1,4 @@
-##RETOS UX/UI
+RETOS UX/UI
 
 1. Laboratoria
 Partes que conforman el UX y el UI.
@@ -12,5 +12,7 @@ Elementos de navegación.
 
 3. Data dashboard
 Sketch para la herramienta del dashboard de Laboratoria.
+
 ![Dashboard Laboratoria](images/dashboard-lab.png)
+--------
 ![Dashboard](images/dashboard.png)
