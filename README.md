@@ -15,15 +15,18 @@ Las fotografías en el sitio web tienen el mayor peso visual, ya que a través d
 El lenguaje que se utiliza es: 
 
 <h5>Wireframe del home de la página de Laboratoria</h5>
+
 ![Homepage](images/home-lab.png)
 
 <h3>UI</h3>
 <h4>Guía de estilo de Laboratoria</h4>
+
 ![Guía de estilo](images/style-guide.png)
 
 <h2>2. GitHub</h2>
 Elementos de navegación.
 ![GitHub sin cuenta](images/github-01.png)
+
 ![GitHub con cuenta](images/github-02.png)
 
 <h2>3. Data dashboard</h2>
