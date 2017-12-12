@@ -23,6 +23,10 @@ Para crear credibilidad, en cada call to action va una imagen de persona con un 
 
 También los logos que aparecen dan un sentido de creencia en el proyecto ya que son lazos que se han trabajado a través de su trayectoria.
 
+<h5>Sitemap de Laboratoria</h5>
+
+![Homepage](images/sitemap.png)
+
 <h5>Wireframe del home de la página de Laboratoria</h5>
 
 ![Homepage](images/home-lab.png)
