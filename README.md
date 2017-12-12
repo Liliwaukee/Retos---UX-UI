@@ -1,4 +1,4 @@
-<h1>RETOS UX/UI <h1>
+<h1>RETOS UX/UI </h1>
 
 <h2>1. Laboratoria</h2>
 <strong>Partes que conforman el UX y el UI.</strong>
