@@ -1,8 +1,8 @@
-RETOS UX/UI
+<em>RETOS UX/UI</em>
 
 1. Laboratoria
 Partes que conforman el UX y el UI.
-
+![Homepage](images/home-laboratoria.png)
 ![Guía de estilo](images/style-guide.png)
 
 2. GitHub
