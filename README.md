@@ -12,4 +12,5 @@ Elementos de navegación.
 
 3. Data dashboard
 Sketch para la herramienta del dashboard de Laboratoria.
+![Dashboard Laboratoria](https://files.slack.com/files-pri/T0NNB6T0R-F8DGTJQPP/image.png)
 ![Dashboard](images/dashboard.png)
